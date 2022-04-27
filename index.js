@@ -40,7 +40,7 @@ function showTags(tags) {
       if (element.images[0].type === "image/jpeg") {
         let div = document.createElement("div");
         let image = document.createElement("img");
-        image.src = element.images[0].link; //bals change this
+        image.src = element.images[0].link; 
         let h4 = document.createElement("h4");
         h4.textContent = element.title;
         h4.setAttribute("class", "name");
@@ -55,7 +55,7 @@ function showTags(tags) {
       console.log("element:", element.link);
       let div = document.createElement("div");
       let image = document.createElement("img");
-      image.src = element.link; //bals change this
+      image.src = element.link; 
       let h4 = document.createElement("h4");
       h4.textContent = element.title;
       h4.setAttribute("class", "name");
@@ -69,7 +69,7 @@ function showTags(tags) {
       if (element.images[0].type === "image/jpeg") {
         let div = document.createElement("div");
         let image = document.createElement("img");
-        image.src = element.images[0].link; //bals change this
+        image.src = element.images[0].link; 
         let h4 = document.createElement("h4");
         h4.textContent = element.title;
         h4.setAttribute("class", "name");
@@ -84,7 +84,7 @@ function showTags(tags) {
       console.log("element:", element.link);
       let div = document.createElement("div");
       let image = document.createElement("img");
-      image.src = element.link; //bals change this
+      image.src = element.link; 
       let h4 = document.createElement("h4");
       h4.textContent = element.title;
       h4.setAttribute("class", "name");
@@ -98,7 +98,7 @@ function showTags(tags) {
       if (element.images[0].type === "image/jpeg") {
         let div = document.createElement("div");
         let image = document.createElement("img");
-        image.src = element.images[0].link; //bals change this
+        image.src = element.images[0].link; 
         let h4 = document.createElement("h4");
         h4.textContent = element.title;
         h4.setAttribute("class", "name");
@@ -113,7 +113,7 @@ function showTags(tags) {
       console.log("element:", element.link);
       let div = document.createElement("div");
       let image = document.createElement("img");
-      image.src = element.link; //bals change this
+      image.src = element.link; 
       let h4 = document.createElement("h4");
       h4.textContent = element.title;
       h4.setAttribute("class", "name");
@@ -127,7 +127,7 @@ function showTags(tags) {
       if (element.images[0].type === "image/jpeg") {
         let div = document.createElement("div");
         let image = document.createElement("img");
-        image.src = element.images[0].link; //bals change this
+        image.src = element.images[0].link; 
         let h4 = document.createElement("h4");
         h4.textContent = element.title;
         h4.setAttribute("class", "name");
@@ -142,7 +142,7 @@ function showTags(tags) {
       console.log("element:", element.link);
       let div = document.createElement("div");
       let image = document.createElement("img");
-      image.src = element.link; //bals change this
+      image.src = element.link; 
       let h4 = document.createElement("h4");
       h4.textContent = element.title;
       h4.setAttribute("class", "name");

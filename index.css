@@ -397,6 +397,7 @@ body {
     background-color: #474a51;
     cursor: pointer;
     margin-top: 20px;
+    /* border: 1px solid lawngreen; */
   }
   
   .content > div div > div:hover {
@@ -406,7 +407,6 @@ body {
   .maximum {
     width: 85%;
     margin: auto;
-    /* border: 1px solid white; */
     margin-top: -25px;
   }
   
